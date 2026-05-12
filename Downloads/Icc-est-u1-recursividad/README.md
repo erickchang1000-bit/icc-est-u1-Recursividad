@@ -1,18 +1,16 @@
-## Getting Started
+# Práctica: Recursividad
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Datos del Estudiante
+- **Nombre:** Erick Joel Chang Calle
+- **Curso:** 3
+- **Fecha:** 11 mayo 2026
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 1. Práctica de Recursividad
+![Codigo complejidad](Codigo.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Fecha:** 11/05/26
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Descripción:**  
+En esta captura se muestra el desarrollo de ejercicios de recursividad en Java. Se trabajó con métodos recursivos para resolver operaciones matemáticas como suma consecutiva, cálculo de potencias y suma de dígitos. También se aplicaron conceptos importantes como caso base y llamadas recursivas para comprender el funcionamiento paso a paso de la recursividad.
